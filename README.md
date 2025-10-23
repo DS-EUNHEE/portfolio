@@ -23,7 +23,7 @@ Final Project에서는 팀장을 맡아 OSINT 뉴스 데이터를 활용한 핵�
   - 결측치 및 이상치 처리, 피처 스케일링 및 인코딩 수행  
   - 여러 회귀모델(XGBoost, Lasso, Ridge 등)을 비교하여 최적 모델 선정  
   - 하이퍼파라미터 튜닝(GridSearchCV)으로 성능 개선  
-- **성과:** Public Score **19,472.07710** 달성 (약 30명 중 **2위**)  
+- **성과:** Public Score **19,472.07710** 달성 ( 23명 중 **2위**)  
 - **기술 스택:** `Python`, `pandas`, `scikit-learn`, `XGBoost`, `matplotlib`
 
 ---
