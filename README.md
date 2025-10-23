@@ -56,6 +56,6 @@ Final Project에서는 팀장을 맡아 OSINT 뉴스 데이터를 활용한 핵�
 
 ---
   
-데이터 사이언티스트 송은희
-Email : songeh619@gmail.com
+**데이터 사이언티스트 송은희**    
+Email : songeh619@gmail.com    
 GitHub : DS-EUNHEE
